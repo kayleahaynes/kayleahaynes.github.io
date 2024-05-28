@@ -4,7 +4,7 @@ title: Coffee Barchart
 date: 2024-07-04 08:57:00-0400
 description: an example of a blog post with jupyter notebook
 tags: formatting jupyter
-categories: sample-posts
+category: data visualisation
 giscus_comments: true
 related_posts: false
 img: /assets/img/coffeeplot.png
