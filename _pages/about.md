@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lead Commercial Data Scientist
+subtitle: Head of Data Science
 
 profile:
   align: right
@@ -15,11 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello 👋, I'm Kaylea, a lead commercial data scientist in the field of cyber security.
+Kaylea is the Head of Data Science in the field of Cyber Security, specialisng in protecting websites from bot attacks. Based in Manchester, UK, she combines technical expertise with leadership to run teams that successfully delivery and drive value from data-driven solutions. 
 
-I love simplicity and firmly believe in finding the simplest solutions to solve problems. I'm passionate about taking complex ideas and communicating them in an easy-to-understand way.
+Kaylea is all about keeping things simple. She enjoys developing  creative and automated solutions that make data analytics and science tools more accessible. Her work often centers on translating complex ideas into clear, actionable insights through thoughtful communication and data storytelling.
 
-Occasionally, I enjoy dabbling in data visualisation. While I don't get as much time as I once did for regular visualisation challenges (you can check out my GitHub for past projects), I hope this website helps me rediscover my creative flow.
+An experienced leader, Kaylea has a Kaylea has a solid track record of building happy, supportive, and collaborative data science teams. She is passionate about fostering supportive, open, and collaborative environments where teams can thrive. Kaylea is also eager to share her insights and engage in conversations about the challenges and opportunities of leading in data science. 
 
-In keeping with the theme of simplicity, I have a special fondness for bar charts. This website pays homage to the trusty bar chart, using them as a foundation to explore and experiment with different data visualisation techniques.
+Outside of work, one of her many hobbies, which she dips in and out of, is data visualization. This website showcases some of these data visualiation projects as well as some blogs around data leadership. 
+
+
+
 
