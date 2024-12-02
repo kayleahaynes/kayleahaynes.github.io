@@ -4,7 +4,7 @@
 
 :root {
   --global-bg-color: #{$k-light-ivory};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: #{$k-light-ivory};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$k-coral-pink};
@@ -66,12 +66,12 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{$k-deep-navy};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$k-teal};
+  --global-hover-color: #{$k-teal};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
