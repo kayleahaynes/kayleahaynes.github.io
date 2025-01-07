@@ -62,14 +62,24 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "location": "",
-      "position": "",
+      "organization": "Start2jog",
+      "location": "Hadfield",
+      "position": "Cross country capatain",
       "url": "",
-      "startDate": "",
+      "startDate": "2019-09-01",
       "endDate": "",
-      "summary": "",
+      "summary": "I organise my running clubs' participation in the Manchester Area Cross Country League.",
       "highlights": [""]
+    }
+    {
+      "organization": "parkrun, UK",
+      "location": "Manchester & Glossop",
+      "position": "Run Director",
+      "url": "",
+      "startDate": "2016-11-01",
+      "endDate": "2025-01-07",
+      "summary": "Part of core teams responsible for providing a safe and inclusive environment for runners to run 5K on a Saturday morning.",
+      "highlights": ["Helped to establish Sale Water park, parkun.", "Joined the core team at Glossop parkrun and served as co-event director for a couple of years", "In total run directed 43 times."]
     }
   ],
   "education": [
