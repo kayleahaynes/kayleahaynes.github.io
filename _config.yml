@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kaylea
-middle_name: (Haynes)
-last_name: Maidstone
+middle_name: 
+last_name: Haynes
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Exploring the art of data visualization, paying homeage to the trusty bar chart.
@@ -294,8 +294,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Haynes]
+  first_name: [Kaylea]
 
   style: apa
   locale: en
