@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kaylea Haynes",
-    "label": "Data Scientist",
+    "label": "Head of Data Science",
     "image": "",
     "email": "",
     "phone": "",
     "url": "https://kayleahaynes.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "An accomplished data leader with a proven track record in customer operations and cyber security.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,12 +25,39 @@
   "work": [
     {
       "name": "Netacea",
-      "position": "Head of Data Science",
+      "position": "Head of data science",
       "url": "",
-      "startDate": "2022-03-01",
+      "startDate": "2024-12-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Bot detection"]
+      "highlights": [""]
+    }, 
+    {
+      "name": "Netacea",
+      "position": "Lead commercial data scientist",
+      "url": "",
+      "startDate": "2022-03-14",
+      "endDate": "2024-12-01",
+      "summary": "I led the commercial data science team responsible for onboarding and maintaining bot detection solutions.",
+      "highlights": [""]
+    }, 
+    {
+      "name": "Residently",
+      "position": "Data scientist",
+      "url": "",
+      "startDate": "2020-04-01",
+      "endDate": "2022-03-14",
+      "summary": "R&D data scientist in a start up looking to provide an improved digital experience for renters.",
+      "highlights": [""]
+    }, 
+    {
+      "name": "Peak",
+      "position": "Data scientist then lead data scientist (from 2018)",
+      "url": "",
+      "startDate": "2017-04-01",
+      "endDate": "2020-03-14",
+      "summary": "Lead data scientist for the Demand AI team.",
+      "highlights": [""]
     }
   ],
   "volunteer": [

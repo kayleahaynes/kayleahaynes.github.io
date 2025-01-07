@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I ❤️ barcharts
+description: Data Visualisation
 nav: true
 nav_order: 3
-display_categories: [data visualisation]
+display_categories: [I ❤️ barcharts, Not a barchart]
 horizontal: false
 ---
 
