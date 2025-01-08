@@ -49,7 +49,7 @@
       "startDate": "2020-04-01",
       "endDate": "2022-03-14",
       "summary": "R&D data scientist in a start up looking to provide an improved digital experience for renters.",
-      "highlights": [""]
+      "highlights": ["Developed predictive models for estimating market prices and time on market for rental properties in London. I utilised ensemble models, combining Integrated Nested Laplace Approximation for capturing spatial information and XGBoost for property features. The results of these models were made accessible to the business through Shiny dashboards.", "Defined essential product metrics for the North Star dashboard, with a focus on 'monthly active users' and 'three-month retention', providing valuable insights into app usage and user engagement.", "Contributed to the creation of a self-service data platform using Looker and dbt data models, empowering colleagues across the organisaction to independently access and analyse data.", "I actively contributed to enhancing the data literacy of my colleagues through regular 'lunch and learns' and hands-on pairing sessions.", "Played a key role in supporting the recruitment and onboarding of two strategic analysts, contributing to the expansion of the data team."]
     }, 
     {
       "name": "Peak",
