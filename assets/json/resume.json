@@ -29,8 +29,7 @@
       "url": "",
       "startDate": "2024-12-01",
       "endDate": "",
-      "summary": "",
-      "highlights": [""]
+      "summary": ""
     }, 
     {
       "name": "Netacea",
@@ -103,8 +102,7 @@
       "studyType": "MRes",
       "startDate": "2013-09-01",
       "endDate": "2016-12-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     },
     {
       "institution": "Heriot Watt University",
@@ -114,8 +112,7 @@
       "studyType": "BSc",
       "startDate": "2008-09-01",
       "endDate": "2012-05-01",
-      "score": "",
-      "courses": [""]
+      "score": ""
     }
   ],
   "awards": [
@@ -171,37 +168,6 @@
       "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    },
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [""],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
     }
   ]
 }
