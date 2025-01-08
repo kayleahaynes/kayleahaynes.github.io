@@ -179,15 +179,6 @@
       "summary": "In the multiple changepoint setting, various search methods have been proposed, which involve optimizing either a constrained or penalized cost function over possible numbers and locations of changepoints using dynamic programming. Recent work in the penalized optimization setting has focused on developing an exact pruning-based approach that, under certain conditions, is linear in the number of data points. Such an approach naturally requires the specification of a penalty to avoid under/over-fitting. Work has been undertaken to identify the appropriate penalty choice for data-generating processes with known distributional form, but in many applications the model assumed for the data is not correct and these penalty choices are not always appropriate. To this end, we present a method that enables us to find the solution path for all choices of penalty values across a continuous range. This permits an evaluation of the various segmentations to identify a suitable penalty choice. The computational complexity of this approach can be linear in the number of data points and linear in the difference between the number of changepoints in the optimal segmentations for the smallest and largest penalty values."
     }
   ],
-  "skills": [
-    {
-      "name": "Databricks",
-      "level": "5",
-      "icon": "",
-      "keywords": ["test", "test1"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "English",
