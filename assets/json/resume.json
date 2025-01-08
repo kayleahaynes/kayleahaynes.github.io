@@ -70,7 +70,7 @@
       "startDate": "2019-09-01",
       "endDate": "",
       "summary": "I organise my running clubs' participation in the Manchester Area Cross Country League.",
-      "highlights": [""]
+      "highlights": ["I've introduced 50+ runners to cross country, many had either not ran cross country at all or hadn't run cross country since school days.", "I'm responsible to getting teams together, liasing with the league to register the club and runners, and sharing information about up and coming runs."]
     },
     {
       "organization": "parkrun, UK",
@@ -91,27 +91,61 @@
       "area": "Statistics and Operational Research",
       "studyType": "PhD",
       "startDate": "2012-09-01",
-      "endDate": "2016-12-01",
+      "endDate": "2013-09-01",
       "score": "",
       "courses": ["Detecting abrupt changes in Big Data"]
+    },
+    {
+      "institution": "Lancaster University",
+      "location": "Lancaster, UK",
+      "url": "",
+      "area": "Statistics and Operational Research",
+      "studyType": "MRes",
+      "startDate": "2013-09-01",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Heriot Watt University",
+      "location": "Edinburgh, UK",
+      "url": "",
+      "area": "Maths and Statistics",
+      "studyType": "BSc",
+      "startDate": "2008-09-01",
+      "endDate": "2012-05-01",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Jon Ross Award",
+      "date": "2023",
+      "awarder": "Netacea",
       "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
+      "summary": "A peer-nominated recognition for embodying values in knowledge sharing, mentoring, and supporting colleagues to maximize their potential and facilitate career growth."
+    },
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
+      "title": "Dean’s award for PhD Excellence",
+      "date": "2016",
+      "awarder": "Lancaster Universtiy",
       "url": "",
-      "icon": ""
+      "summary": "Awarded for my achievements during my 3rd year PhD and for my engagement with other students in the department."
+    },
+    {
+      "title": "Student paper award",
+      "date": "2016",
+      "awarder": "American Statistical Association Section on Statistical Computing",
+      "url": "",
+      "summary": "Travel grant awarded to attend JSM 2015 in Seattle to present 'Efficent penalty search for multiple changepoint detection in big data.'"
+    },
+    {
+      "title": "Watt Club medal, Roderick McCallum Prize and Exceptional Contribution Award,",
+      "date": "2012",
+      "awarder": "Heriot Watt University",
+      "url": "",
+      "summary": "Awarded at undergraduate graduation for greatest distinction in Mathematics.'"
     }
   ],
   "publications": [
