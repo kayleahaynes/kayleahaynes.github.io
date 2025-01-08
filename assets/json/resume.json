@@ -89,8 +89,8 @@
       "url": "",
       "area": "Statistics and Operational Research",
       "studyType": "PhD",
-      "startDate": "2012-09-01",
-      "endDate": "2013-09-01",
+      "startDate": "2013-09-01",
+      "endDate": "2016-12-01",
       "score": "",
       "courses": ["Detecting abrupt changes in Big Data"]
     },
@@ -100,8 +100,8 @@
       "url": "",
       "area": "Statistics and Operational Research",
       "studyType": "MRes",
-      "startDate": "2013-09-01",
-      "endDate": "2016-12-01",
+      "startDate": "2012-09-01",
+      "endDate": "2013-09-01",
       "score": ""
     },
     {
@@ -181,10 +181,10 @@
   ],
   "skills": [
     {
-      "name": "",
-      "level": "",
+      "name": "Databricks",
+      "level": "5",
       "icon": "",
-      "keywords": [
+      "keywords": ["test", "test1"
       ]
     }
   ],
