@@ -147,11 +147,12 @@
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "name": "A computationally efficient nonparametric approach for changepoint detection.",
+      "publisher": "Statistics and Computing",
+      "authors": "Kaylea Haynes, Paul Fearnhead, Idris A. Eckley",
+      "releaseDate": "2016-07-28",
+      "url": "https://link.springer.com/article/10.1007/s11222-016-9687-5",
+      "summary": "In this paper we build on an approach proposed by Zou et al. (2014) for nonpara- metric changepoint detection. This approach defines the best segmentation for a data set as the one which minimises a penalised cost function, with the cost function defined in term of minus a non-parametric log-likelihood for data within each segment. Min- imising this cost function is possible using dynamic programming, but their algorithm had a computational cost that is cubic in the length of the data set. To speed up computation, Zou et al. (2014) resorted to a screening procedure which means that the estimated segmentation is no longer guaranteed to be the global minimum of the cost function. We show that the screening procedure adversely affects the accuracy of the changepoint detection method, and show how a faster dynamic programming algorithm, Pruned Exact Linear Time, PELT (Killick et al., 2012), can be used to find the optimal segmentation with a computational cost that can be close to linear in the amount of data. PELT requires a penalty to avoid under/over-fitting the model which can have a detrimental effect on the quality of the detected changepoints. To overcome this issue we use a relatively new method, Changepoints Over a Range of PenaltieS (CROPS) (Haynes et al., 2015), which finds all of the optimal segmentations for multiple penalty values over a continuous range. We apply our method to detect changes in heart rate during physical activity."
     }
   ],
   "skills": [
