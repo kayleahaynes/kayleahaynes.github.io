@@ -39,7 +39,8 @@
       "startDate": "2022-03-14",
       "endDate": "2024-12-01",
       "summary": "I led the commercial data science team responsible for onboarding and maintaining bot detection solutions.",
-      "highlights": [""]
+      "highlights": ["Reduced customer onboarding time from 2-4 weeks to less than 1 hour by initiating day-zero bot detection, utilising domain agnostic models. Thus resulted in shorter sales cycles and increased team capacity for R&D projects aimed at enhancing bot detection solutions.", "Developed and implemented PySpark and Databricks notebooks for labelling attacks, simulating models and tuning hyperparameters, this resulted in more efficient workflows.", "Played a pivotal role in customer engagements, collaborating closely with customer success managers to navigate sales calls, renewals, and quarterly business reviews, providing technical support when required.", "Worked with senior leadership to influence the data strategy, facilitating structural changes in the data team, including the introduction of more focused work streams and greater collaboration with the data analytics team.", "Nurtured and supported my direct reports in data science and engineering, helping them progress to senior roles and take on their first line manager responsibilities.", "Played a key role in recruiting senior data science positions and improving the hiring and onboarding process."
+     ]
     }, 
     {
       "name": "Residently",
